@@ -1,1 +1,2 @@
-# حط مكاتبك
+pip install pyrogram
+pip3 install -U pyrofork
