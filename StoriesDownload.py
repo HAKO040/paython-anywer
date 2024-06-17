@@ -8,9 +8,9 @@ import json
 # Bot Config Obj
 class Config:
     SESSION : str = "<SESSSIONS_PYROGRAM>" # Pyrogram Sessions
-    API_KEY : str = "<API_KEY_BOT>" # ApiKey Bot
+    API_KEY : str = "7400656722:AAEXoIC5LAcx8ZNnZvylqVSq-7tFZV4cKAs" # ApiKey Bot
     API_HASH: str = "95f5f60466a696e33a34f297c734d048" # APi_Hash
-    API_ID  : int = 22119881 # Api id
+    API_ID  : int = 5706011922 # Api id
     SUDO    : int = 5724519766 # Sudo id 
     CHANNLS : str = ['radfx2'] # CHannls List
  
