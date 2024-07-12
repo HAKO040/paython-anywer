@@ -2,7 +2,7 @@ import telebot
 import requests
 
 ap = 'https://pythonanywhere.os74.repl.co'
-tok= input("bot token: ")
+tok= "7028591280:AAHLohgKXm3P3wh6C0GXjIjpCXMOloufC8Q"
 bot = telebot.TeleBot(tok)
 
 @bot.message_handler(commands=['start'])
