@@ -1,1 +1,1 @@
-worker: python StoriesDownload.py
+worker: python pythonanywhere.py
